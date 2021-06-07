@@ -1,6 +1,6 @@
 # Squirrel-Navigator
 This is a private and secure text based browser
-Requirements: Could be found in browser/requirements.txt to download them type in your terminal pip or pip3 install requirements.txt
+Requirements: Could be found in browser/requirements.txt to download them type in your terminal ```pip or pip3 install requirements.txt```
 
 Usage:
 Clone this repository
