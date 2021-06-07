@@ -50,7 +50,7 @@ def go_back():
 
 
 while True:
-    command = input("Squirrel-Navigator!! Search for a Url >>")
+    command = input("Squirrel-Navigator!! enter a Url, type back to go back or type exit to quit >>")
     if command == "exit":
         break
     if command == "back":
