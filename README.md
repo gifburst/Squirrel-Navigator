@@ -20,7 +20,7 @@ This file is designed for use from the command line.
 * If there's warning for all of these packages, install them with the command `pip install -r requirements.txt`
 * Alternatively, install only the unavailable ones with `pip install modulename` where modulename is colorama for example.
 
-Now type: `code location e.g user\yourname\SquirrelNavigator\python browser.py`
+Now type: `code location e.g user\yourname\SquirrelNavigator>python browser.py`
 
 click enter and, it will display how to pass parameters.
 
