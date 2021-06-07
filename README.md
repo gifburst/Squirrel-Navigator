@@ -10,7 +10,7 @@
 ## Installation and Usage
 This file is designed for use from the command line.
 
-* Save `requirements.txt` and `textbrowser.py` to a folder.
+* Save `requirements.txt` and `browser.py` to a folder.
 * Navigate to that folder.
 * Launch command line/terminal
 * Check if you have packages `bs4`, `requests` and `colorama` installed separately (all three are listed in `requirements.txt`):
