@@ -23,9 +23,9 @@ This file is designed for use from the command line.
 
 Now type: `./browser.py`
 Or do 
-`git clone https://github.com/lalor/emcli`
-`cd emcli`
-`sudo python setup.py install`
+`git clone https://github.com/squirrelcom/Squirrel-Navigator`
+`cd Squirrel-Navigator`
+`sudo python browser.py install`
 
 
 click enter and, it will display how to pass parameters.
