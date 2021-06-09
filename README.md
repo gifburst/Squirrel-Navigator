@@ -10,9 +10,9 @@
 ## Installation and Usage
 This file is designed for use from the command line.
 
-* Save `requirements.txt` and `browser.py` to a folder.
-* Navigate to that folder.
+* Download the zip file and unzip it
 * Launch command line/terminal
+* Type `cd Squirrel-Navigator-main`
 * Check if you have packages `bs4`, `requests` and `colorama` installed separately (all three are listed in `requirements.txt`):
 * `pip show requests`
 * `pip show bs4`
@@ -20,7 +20,7 @@ This file is designed for use from the command line.
 * If there's warning for all of these packages, install them with the command `pip install -r requirements.txt`
 * Alternatively, install only the unavailable ones with `pip install modulename` where modulename is colorama for example.
 
-Now type: `code location e.g user\yourname\SquirrelNavigator>python browser.py`
+Now type: `./browser.py`
 
 click enter and, it will display how to pass parameters.
 
