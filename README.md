@@ -8,6 +8,7 @@
 * LICENSE
 
 ## Installation and Usage
+Squirrel-Navigator only works on linux
 This file is designed for use from the command line.
 
 * Download the zip file and unzip it
