@@ -22,6 +22,11 @@ This file is designed for use from the command line.
 * Alternatively, install only the unavailable ones with `pip install modulename` where modulename is colorama for example.
 
 Now type: `./browser.py`
+Or do 
+`git clone https://github.com/lalor/emcli
+cd emcli
+sudo python setup.py install`
+
 
 click enter and, it will display how to pass parameters.
 
