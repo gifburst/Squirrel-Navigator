@@ -152,7 +152,7 @@ class Browser:
               f' are hyperlinks on a website.'
               f'{Fore.RESET}\n'
               f'6:    >>> > {Fore.GREEN}use seARch! Terminal edition!!\n'
-              f'            {Fore.RESET}(a private and secure web portal goto squirrelcom.github.io/seARchter)\n'
+              f'            {Fore.RESET}a private and secure web portal to use it type: squirrelcom.github.io/seARchter\n'
               )
 
 
