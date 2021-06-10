@@ -137,21 +137,23 @@ class Browser:
     @staticmethod
     def usage():
         print(f'\n'
-              f'{Fore.GREEN}'
-              f'                  Squirrel-Navigator v0.1 alpha                  '
+              f'{Fore.RED}'
+              f'                      Squirrel-Navigator                  '
               f'{Fore.RESET}\n\n'
               'Usage:\n'
-              f'1:    >>> {Fore.GREEN}python browser.py directory_name_existing_or_new\n'
-              f'                            {Fore.RESET}(directory name is optional)\n'
-              f'2:    >>> > {Fore.GREEN}hostname.com\n'
+              f'1:    >>> {Fore.BLUE}A private and secure Text-Based web browser\n'
+              f'                            {Fore.RESET}(Go to )\n'
+              f'2:    >>> > {Fore.RESET}Enter a URL\n'
               f'            {Fore.RESET}(type a simple website without https)\n'
-              f'3:    >>> > {Fore.GREEN}hostname_without_dotcom_or_dotorg_or_dotanything'
+              f'3:    >>> > {Fore.RESET}hostname_without_dotcom_or_dotorg_or_dotanything'
               f'{Fore.RESET}\n'
-              f'4:    >>> > {Fore.GREEN}back\n'
+              f'4:    >>> > {Fore.RESET}back\n'
               f'            {Fore.RESET}(type back to access browsing history)\n'
-              f'5:    >>> > {Fore.GREEN}exit{Fore.RESET}\n'
+              f'5:    >>> > {Fore.RESET}exit{Fore.RESET}\n'
               f'            Text in {Fore.BLUE}blue{Fore.RESET}'
               f' are hyperlinks on a website.'
+              f'6:    >>> > {Fore.GREEN}use seARch!\n'
+              f'            {Fore.RESET}(a private and secure web portal goto squirrelcom.github.io/seARchter)\n'
               )
 
 
